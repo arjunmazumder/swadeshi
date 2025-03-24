@@ -1,0 +1,12 @@
+body{
+
+    background-color: rgb(227, 227, 227);
+    padding: 15px;
+}
+.signup-button{
+    margin-top: 10%;
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+    
+}
